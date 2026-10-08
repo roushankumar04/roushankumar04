@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**roushankumar04/roushankumar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Roushan Kumar, a B.Tech Computer Science & Engineering student at Ramdeobaba University, learning software development and building a strong foundation in computer science.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech Computer Science & Engineering student
+- 💻 Interested in software development and computer science
+- 🐧 Learning Linux and working with Git and GitHub
+- 🛠️ Learning by building projects and experimenting with different technologies
+- 🌱 Interested in open-source software and understanding how things work
+
+## Currently Learning
+
+- Programming and software development
+- Data Structures & Algorithms
+- Linux
+- Git & GitHub
+- Computer Science fundamentals
+- Web development
+
+## Technical Skills
+
+**Languages:** C, Java, Python
+
+**Web:** HTML, CSS, JavaScript
+
+**Tools & Platforms:** Linux, Git, GitHub
+
+## Projects
+
+I'm currently building projects to strengthen my programming and software development skills.
+
+- **Personal Portfolio Website** — A simple portfolio website built while learning HTML, CSS, JavaScript, Git and GitHub.
+- **YouTube Downloader** — A Python project for learning application development, URL handling and project structure.
+
+More projects will be added as I continue learning and building.
+
+## Interests
+
+- Software Development
+- Computer Science
+- Linux
+- Open Source
+- Mathematics
+- Physics
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/roushankumar04/)
